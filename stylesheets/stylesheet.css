@@ -65,7 +65,7 @@ a:hover {
 
 header {
   padding-top: 40px;
-  padding-bottom: 18px;
+  padding-bottom: 10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #040D61;
   border-bottom: solid 1px #275da1;
@@ -91,7 +91,7 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 940px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -103,6 +103,7 @@ header h2 {
 #main-content {
   width: 690px;
   float: left;
+  margin-left: 200px;
 }
 
 #main-content img {
