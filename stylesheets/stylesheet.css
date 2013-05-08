@@ -108,6 +108,8 @@ header h2 {
 
 #main-content img {
   max-width: 100%;
+  vertical-align: text-top;
+  margin-bottom: 40%;
 }
 
 aside#sidebar {
