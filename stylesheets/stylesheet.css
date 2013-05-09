@@ -111,7 +111,7 @@ header h2 {
 }
 
 #main-content img {
-  max-width: 100%;
+  max-width: 100px;
   vertical-align: text-top;
   margin-bottom: 40%;
 }
