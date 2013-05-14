@@ -110,7 +110,7 @@ header h2 {
   margin-left: 200px;
 }
 
-#main-content img {
+.palestrante {
   max-width: 100px;
   vertical-align: text-top;
   margin-bottom: 40%;
