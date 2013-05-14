@@ -115,6 +115,9 @@ header h2 {
   vertical-align: text-top;
   margin-bottom: 40%;
 }
+.camiseta{
+  max-width: 500px;
+}
 
 aside#sidebar {cd
   width: 200px;
