@@ -76,12 +76,13 @@ header {
 }
 
 header h1 {
+  font-family: 'Press Start 2P', 'Helvetica Neue', Helvetica, Arial, serif; 
   letter-spacing: -1px;
-  font-size: 72px;
-  color: #fff;
+  font-size: 400%;
+  color: #ACB6C7;
   line-height: 1;
   margin-bottom: 0.2em;
-  width: 540px;
+  width: 30%;
 }
 
 header h2 {
