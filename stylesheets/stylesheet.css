@@ -355,8 +355,10 @@ footer {
   margin-top: 10px;
   padding-top: 0px;
   padding-bottom: 0px;
-  font-size: 13px;
-  color: #aaa;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 1.5em;
+  letter-spacing: -1px;
+  color: #fff;
 }
 
 footer a {
