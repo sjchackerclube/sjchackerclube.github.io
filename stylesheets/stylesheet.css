@@ -50,6 +50,16 @@ table {
 	border-spacing: 0;
 }
 
+@font-face {
+ font-family: Blasteri;
+ src: url("../fonts/blasteri.eot");
+}
+
+@font-face {
+ font-family: Blasteri;
+ src: url("../fonts/blasteri.ttf");
+}
+
 /* LAYOUT STYLES */
 body {
   font-size: 15px;
